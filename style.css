@@ -1,30 +1,21 @@
 body {
 font-family: High Tower Text, Arial, sans-serif;
+font-size: 24px;
 background-color:#4C4C4C;
 color:#c0c0c0;
 }
-
-h1 {
+div.center {
+  margin-left: auto;
+  margin-right: auto;
+  width: 10em;
+}
+{
 font-size:32px;
 color:#B8E65C;
 background-color:#4C4C4C;
 }
 
-h2 {
-font-size:28px;
-color:#B8E65C
-background-color:#4C4C4C;
-}
-h3 {
-font-size:24px;
-color:#B8E65C
-background-color:#4C4C4C;
-}
-h4, h5, h6 {
-font-size:18px;
-color:#B8E65C
-background-color:#4C4C4C;
-}
+
 
 a {
 text-decoration:none;
@@ -32,5 +23,5 @@ color:#ffffff;
 }
 
 a:hover {
-color:#00ff00;
+color:#E6FF99;
 }
