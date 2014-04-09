@@ -3,6 +3,18 @@ font-family: High Tower Text, Arial, sans-serif;
 font-size: 24px;
 background-color:#4C4C4C;
 color:#c0c0c0;
+#branding { height: 50px; }
+#branding hgroup { margin: 0 15px; }
+#branding #searchform { top: 1em; }
+#access {
+   float: left;
+   width: 50%;
+   margin: 0 0 0 270px;
+   background; none;
+   box-shadow: none;
+   -webkit-box-shadow: none;
+}
+#access li a { color: #000000; }
 }
 div.center {
   margin-left: auto;
